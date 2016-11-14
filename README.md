@@ -36,6 +36,8 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-3.png">
 </p> 
 
+<img src="https://github.com/NATAKORNCHA/LAB-12/blob/master/imgs/LAB12.3.png?raw=true">
+
 ### การพลิกและหมุนภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-4.png">
