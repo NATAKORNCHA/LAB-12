@@ -43,6 +43,7 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-4.png">
 </p> 
 
+<img src="https://github.com/NATAKORNCHA/LAB-12/blob/master/imgs/LAB12.4.png?raw=true">
 
 ## การเขียนข้อความลงในภาพ
  </p align = "center">
